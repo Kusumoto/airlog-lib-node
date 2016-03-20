@@ -1,0 +1,22 @@
+{
+  "name": "airlog-lib-node",
+  "version": "1.0.0",
+  "description": "Airlog library for node.js programming language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "samf",
+    "log",
+    "analysis",
+    "logfile"
+  ],
+  "author": "Kusumoto <kusumoto.com@gmail.com> (https://kusumotolab.com)",
+  "license": "MIT",
+  "dependencies": {
+    "callsite": "^1.0.0",
+    "request": "^2.69.0"
+  }
+}
