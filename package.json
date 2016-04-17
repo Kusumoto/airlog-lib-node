@@ -1,6 +1,6 @@
 {
   "name": "airlog-lib-node",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Airlog library for node.js programming language",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   "license": "MIT",
   "dependencies": {
     "callsite": "^1.0.0",
-    "request": "^2.69.0"
+    "querystring": "^0.2.0"
   }
 }
